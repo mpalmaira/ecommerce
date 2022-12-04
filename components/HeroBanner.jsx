@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import React from 'react'
+import React from 'react'git
 
 const HeroBanner = () => {
   return (
@@ -14,7 +14,7 @@ const HeroBanner = () => {
                 </Link>
                 <div className='desc'>
                     <h5>Description</h5>
-                    <p>DESCRIPTION</p>
+                    <p>DESCRIPTION</p> 
                 </div>
             </div>
         </div>
